@@ -1,6 +1,7 @@
 # GalaxyBook2Linux
 Issues and possible solutions to the galaxy book 2 NP750XED-KC1SE
 Keep in mind that this process is not the simplest, and if you don't know what you are doing this is my friendly reminder that I don't take any responsibilty for what could happen to your system YOU HAVE BEEN WARNED! 
+
 [Issues]
 Lid sleep sensor is borked, if not disabled system will put the device into sleep all the time. 
 Everything else works, on my i3-1215u without backlight and without the fingerprint scanner nothing else is currently broken.
